@@ -1,4 +1,7 @@
 # flexyduck.github.io
 
-<h1> I wanted to get the gang together early in my Tenure to say YO <h1>
+<h1> How to host and formay a resume in GitHub <h1>
+
+Theres not much I have written so far actually
+
 
