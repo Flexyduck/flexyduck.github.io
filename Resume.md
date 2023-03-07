@@ -1,1 +1,1 @@
-<h1> Tirenioluwa Biodun-Kuti </h1>
+<h1 align = "center"> Tirenioluwa Biodun-Kuti </h1>
