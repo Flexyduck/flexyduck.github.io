@@ -1,6 +1,6 @@
 # flexyduck.github.io
 
-## <center> How to host and format a resume on GitHub Pages </center>
+## <align = "center"> How to host and format a resume on GitHub Pages </align>
 
 Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
 
