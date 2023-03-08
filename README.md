@@ -27,4 +27,6 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 
 * Step 2: Clone your repository
     - If you are using GitHub Desktop, you can choose the **Set up in Desktop** option on the repository homepage from GitHub. This should redirect you to the GitHub Desktop app, when it does, save the project. If the GitHub Desktop app does not automatically redirect, manually launch it and the just clone the repository by selecting *Clone Repository* from the File option in the Menu Bar on the top of your screen
-    - If your are using terminal or Command Prompt, you can clone our repository by entering `git clone https://github.com/username/username.github.io` into your terminal
+    - If your are using terminal or Command Prompt, you can clone our repository by entering 
+        -`git clone https://github.com/username/username.github.io`
+    into your terminal
