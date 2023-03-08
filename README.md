@@ -2,4 +2,8 @@
 
 <h2 align = "center"> How to host and format a resume on GitHub Pages </h2>
 
-This README will describe the practical steps of how to host and format a resume using GitHub Pages
+Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
+
+Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. Github is a great site to use to host this new resume but before we begin the tutorial of how to host a resume, we fitst ask:
+
+###What is GitHub?
