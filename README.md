@@ -6,6 +6,6 @@ Purpose: This README will describe the practical steps of how to host and format
 
 Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great site to use to host this new resume but before we begin the tutorial of how to host a resume, we fitst ask:
 
-###  _What is GitHub?_
+###  <ins> What is GitHub? </ins>
 
-Github is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sister <ins> website </ins> : *GitHub Pages*
+Github is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sister website: *GitHub Pages*
