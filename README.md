@@ -5,9 +5,14 @@
 Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
 
 ### Table of Contents
-[](#what-is-github)
-[](#github-pages)
-[](#align--center-hosting-your-resume-of-github-pages)
+* [](#what-is-github)
+* [](#github-pages)
+* [](#hosting-your-resume-of-github-pages)
+    - [](#creating-a-github-repository)
+    - [](#cloning-your-repository)
+    - [](#uploading-your-resume)
+* [](#authors-and-acknowledgements)
+* [](#frequently-asked-questions-faqs)
 
 Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great site to host this new resume, but before we begin the tutorial on how to host a resume, we first ask:
 
@@ -25,17 +30,17 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 *GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages.
 
 
- #### <align = "center"> <ins> Hosting your resume of GitHub Pages </ins>
+ #### <center> <ins> Hosting your resume of GitHub Pages </ins> </center>
 
-1. **Creating a GitHub Repository**
+1. ##### **Creating a GitHub Repository**
     - Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
 
-2. **Clone your repository**
+2. ##### **Cloning your repository**
     - If you are using GitHub Desktop, you can choose the **Set up in Desktop** option ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/setupindesktop.png ) on the repository homepage from GitHub. This should redirect you to the GitHub Desktop app, when it does, save the project. If the GitHub Desktop app does not automatically redirect, manually launch it and the just clone the repository by selecting *Clone Repository* from the File option in the Menu Bar on the top of your screen. 
     <br> ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/clone%20repository.gif) 
     - If your are using terminal or Command Prompt, you can clone our repository by entering <br>`git clone https://github.com/username/username.github.io` <br> into your terminal.
 
-3. **Uploading your Resume**
+3. ##### **Uploading your Resume**
     - **Congratulations**! You have now officially created your own GitHub repository,now it time for you upload your resume. The next step is formatting your resume in Markdown. Markdown is a XXXXXXXXXXXXX that helps display your resume in webpages. A link for tutorials on formatting documents in markdown is avaialable in the XXXXXXXXXX part of the document. 
     <br> After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository
         - To do this, if you are using **GitHub Desktop**, save your Markdown Resume to your new cloned repository's local directory, then your label this your resume as *Initial Commit* in the GitHub App and then "Push" this commit to your repository. ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
