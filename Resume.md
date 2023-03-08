@@ -1,4 +1,4 @@
-# Tirenioluwa D. Biodun-Kuti
+<h1 align = "center"> Tirenioluwa D. Biodun-Kuti </h1>
 
 Apt 302, 15 Cooper’s Town Road.  
 Winnipeg, MB. R3Y 2E3  
