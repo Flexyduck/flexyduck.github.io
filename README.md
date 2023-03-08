@@ -17,8 +17,9 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 * Project Documentation
 * Resumes
 
-*GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages;
+*GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages.
 
-<h4 align = "center"> <ins> ** Hosting your resume of GitHub Pages ** </ins> </ h4>
 
+<ins> <h4 align = "center"> Hosting your resume of GitHub Pages </h4> </ins>
+Step 1: Creating a GitHub Account
 
