@@ -8,4 +8,4 @@ Hosting your resume online is the first step into entering a new job market with
 
 ###  _What is GitHub?_
 
-Github is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sister <u> website </u> : *GitHub Pages*
+Github is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sister <ins> website </ins> : *GitHub Pages*
