@@ -23,6 +23,6 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 <h4 align = "center"> <ins> Hosting your resume of GitHub Pages </ins> </h4> 
 
 * Step 1: Creating a GitHub Repository
-- Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository**
+- Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
 
 
