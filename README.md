@@ -4,6 +4,11 @@
 
 Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
 
+### Table of Contents
+[](#what-is-github)
+[](#github-pages)
+[](#align--center-hosting-your-resume-of-github-pages)
+
 Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great site to host this new resume, but before we begin the tutorial on how to host a resume, we first ask:
 
 ### <ins> **What is GitHub?** </ins>
@@ -20,7 +25,7 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 *GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages.
 
 
-<h4 align = "center"> <ins> Hosting your resume of GitHub Pages </ins> </h4> 
+ #### <align = "center"> <ins> Hosting your resume of GitHub Pages </ins>
 
 1. **Creating a GitHub Repository**
     - Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
