@@ -19,6 +19,6 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 
 *GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages;
 
-#### <ins> Hosting your resume of GitHub Pages </ins>
+#### <ins align = "center" > Hosting your resume of GitHub Pages </ins>
 
 
