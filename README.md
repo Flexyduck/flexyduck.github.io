@@ -21,5 +21,5 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 
 
 <ins> <h4 align = "center"> Hosting your resume of GitHub Pages </h4> </ins>
-Step 1: Creating a GitHub Account
+* Step 1: Creating a GitHub Account
 
