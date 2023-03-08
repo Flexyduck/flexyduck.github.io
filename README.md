@@ -33,6 +33,8 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 * Step 3: Uploading your Resume
     - **Congratulations**! You have now officially created your own GitHub repository,now it time for you upload your resume. The next step is formatting your resume in Markdown. Markdown is a XXXXXXXXXXXXX that helps display your resume in webpages. A link for tutorials on formatting documents in markdown is avaialable in the XXXXXXXXXX part of the document. 
     <br> After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository
-        - To do this, if you are using GitHub Desktop, you upload your and you drag and drop your resume in the GitHub Desktop page, then your label this your *Initial Commit* and then "Push" this commit to your repository. 
-        - If you are using terminal, navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputing:
+        - To do this, if you are using **GitHub Desktop**, you upload your and you drag and drop your resume in the GitHub Desktop page, then your label this your *Initial Commit* and then "Push" this commit to your repository. 
+        - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputing:
         <br> `git init -b main` 
+        <br> After you do that then, you commit the directory to epository and label that commit as *Initial Commit* then "Push" these commits to your repository. You can do this by inputing the folowing into the command line: 
+         <br> `git add . && git commit -m "initial commit"`
