@@ -1,18 +1,18 @@
 # flexyduck.github.io
 
-<h2 align = "center"> How to host and format a resume on GitHub Pages </h2>
+## <center> How to host and format a resume on GitHub Pages </center>
 
 Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
 
 ### Table of Contents
-* [](#what-is-github)
-* [](#github-pages)
-* [](#hosting-your-resume-of-github-pages)
-    - [](#creating-a-github-repository)
-    - [](#cloning-your-repository)
-    - [](#uploading-your-resume)
-* [](#authors-and-acknowledgements)
-* [](#frequently-asked-questions-faqs)
+* [What is GitHub?](#what-is-github)
+* [GitHub Pages](#github-pages)
+* [Hosting Your Resume on GitHub Pages](#hosting-your-resume-on-github-pages)
+    - [Creating a GitHub Repository](#creating-a-github-repository)
+    - [Cloning Your Repository](#cloning-your-repository)
+    - [Uploading Your Resume](#uploading-your-resume)
+* [Authors and Acknowledgements](#authors-and-acknowledgements)
+* [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 
 Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great site to host this new resume, but before we begin the tutorial on how to host a resume, we first ask:
 
@@ -30,7 +30,7 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 *GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages.
 
 
- #### <center> <ins> Hosting your resume of GitHub Pages </ins> </center>
+ #### <center> <ins> Hosting Your Resume on GitHub Pages </ins> </center>
 
 1. ##### **Creating a GitHub Repository**
     - Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
