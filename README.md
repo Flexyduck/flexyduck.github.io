@@ -45,7 +45,7 @@ GitHub is a software and cloud-based service that gives users the ability to sto
         - To do this, if you are using **GitHub Desktop**, save your Markdown Resume to your new cloned repository's local directory, then label this your resume as *Initial Commit* in the GitHub App and then "Push" this commit to your repository. ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
         - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputting:
         <br> `git init -b main` 
-        After you do that then, you commit the directory to repository and label that commit as *Initial Commit* then "Push" these commits to your repository. You can do this by inputting the folowing into the command line: 
+        <p>After you do that then, you commit the directory to repository and label that commit as *Initial Commit* then "Push" these commits to your repository. You can do this by inputting the folowing into the command line: </p>
          <br> `git add . && git commit -m "initial commit"`
 
 4. #### Configuring your input.html file
