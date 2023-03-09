@@ -1,6 +1,6 @@
 <h1 align = "center"> Tirenioluwa D. Biodun-Kuti </h1>
 
-<right>Apt 302, 15 Cooper’s Town Road. </right>
+<div align="right">Apt 302, 15 Cooper’s Town Road.
 Winnipeg, MB. R3Y 2E3  
 431-277-5680  
 tirenikuti@gmail.com
