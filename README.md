@@ -63,4 +63,15 @@ Now you have officially hosted your resume on GitHub pages and are ready to take
 * [What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY)
 
 ### Frequently Asked Questions (FAQs)
+1. Why id Markdown better than a word processor?
+    * Markdown is  quite straighforwards in regards to editing
+    * Markdown is more suited to work on browsers and online formats
+    * Markdown's format has less distracting elements on screen  
+
+2. Why is my resume not showing up?
+    * GitHub server's might be down
+    * Have you configured your index.html file?
+    * Have you set up GitHub pages for your repository?
+    * It takes time for (~3 mins) for GitHub Pages to configure your website
+
 
