@@ -30,7 +30,7 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
 *GitHub Pages* has the added benefit of not requiring knowledge of databases, servers or, at times, knowledge of HTML. This is all of the information we need to host our resumes on GitHub Pages.
 
 
- #### <h4 align = "center"> <ins> Hosting Your Resume on GitHub Pages </ins> </h4>
+ # <h4 align = "center"> <ins> Hosting Your Resume on GitHub Pages </ins> </h4>
 
 1. ##### **Creating a GitHub Repository**
     - Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
