@@ -12,13 +12,14 @@ Purpose: This README will describe the practical steps of how to host and format
     - [Cloning Your Repository](#cloning-your-repository)
     - [Uploading Your Resume](#uploading-your-resume)
 * [Authors and Acknowledgements](#authors-and-acknowledgements)
+* [More Resources](#more-resources)
 * [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
 
-Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great site to host this new resume, but before we begin the tutorial on how to host a resume, we first ask:
+Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great website to host this new resume as it is a popular name in the tech community for acquiring talent, looking up developer's portfolios and storing projects, These alongside your resume makes GitHub a one-stop-shop all your tech profile and hosting your resume on GitHub is the first item you are displaying in your "shop". This READMe will describe the practical steps of how  the but before we begin the tutorial on how to host a resume, we first ask:
 
 ### <ins> **What is GitHub?** </ins>
 
-GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sister website: *GitHub Pages*
+GitHub is software and cloud-based service that gives users the ability to store code online, manage code, collaborate with others on code and track and record any changes to such code. GitHub is also home many documentations and even gives users the abilty to sylize documenation as webpages when partnered with their sister website: *GitHub Pages*
 
 ### <ins> **GitHub Pages** </ins>
 *GitHub Pages* is a tool from GitHub that helps you turn your GitHub repositories into webpages for better presentation and access. *GitHub Pages* gives you the ability to showcase stylish webpages for a variety of functions such as:
@@ -41,7 +42,7 @@ GitHub is software that XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX partnered with our sis
     - If your are using terminal or Command Prompt, you can clone our repository by entering <br>`git clone https://github.com/username/username.github.io` <br> into your terminal.
 
 3. ##### **Uploading your Resume**
-    - **Congratulations**! You have now officially created your own GitHub repository,now it time for you upload your resume. The next step is formatting your resume in Markdown. Markdown is a XXXXXXXXXXXXX that helps display your resume in webpages. A link for tutorials on formatting documents in markdown is avaialable in the XXXXXXXXXX part of the document. 
+    - **Congratulations**! You have now officially created your own GitHub repository,now it time for you upload your resume. The next step is formatting your resume in Markdown. Markdown is a lightweight markup language that helps display your resume in webpages. A link for tutorials on formatting documents in markdown is avaialable in the [More Resources](#more-resources) part of the document. 
     <br> After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository
         - To do this, if you are using **GitHub Desktop**, save your Markdown Resume to your new cloned repository's local directory, then your label this your resume as *Initial Commit* in the GitHub App and then "Push" this commit to your repository. ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
         - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputing:
@@ -56,6 +57,7 @@ Now you have officially hosted your resume on GitHub pages and are ready to take
 * Andrew Etter
 * Meenal Bhatia 
 * Maxim Omelchenko 
+* Stewart Wilcox
 * Yee Tsung Kao 
 
 ### More Resources
