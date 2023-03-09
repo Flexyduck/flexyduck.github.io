@@ -1,9 +1,13 @@
 <h1 align = "center"> Tirenioluwa D. Biodun-Kuti </h1>
 
-<div align="left">431-277-5680</div>  <div align="right">Apt 302, 15 Cooper’s Town Road.</div>
 <div align="left">tirenikuti@gmail.com </div> <div align="right">Winnipeg, MB. R3Y 2E3  </div>
 
-
+<p style="text-align:left;">
+    431-277-5680
+    <span style="float:right;">
+        Apt 302, 15 Cooper’s Town Road.
+    </span>
+</p>
 ## EMPLOYMENT
 
 ### Store Sales Associate - PPG Architectural Coatings, Dulux Paints - October 2022
