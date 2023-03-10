@@ -3,15 +3,15 @@
 Purpose: This README will describe the practical steps of how to host and format a resume using GitHub Pages
 
 ### Table of Contents
-* [What is GitHub?](#what-is-github)
-* [GitHub Pages](#github-pages)
-* [Hosting Your Resume on GitHub Pages](#hosting-your-resume-on-github-pages)
-    1. [Creating a GitHub Repository](#creating-a-github-repository)
-    2. [Cloning Your Repository](#cloning-your-repository)
-    3. [Uploading Your Resume](#uploading-your-resume)
-* [Authors and Acknowledgements](#authors-and-acknowledgements)
-* [More Resources](#more-resources)
-* [Frequently Asked Questions (FAQs)](#frequently-asked-questions-faqs)
+* [What is GitHub?] (#what-is-github)
+* [GitHub Pages] (#github-pages)
+* [Hosting Your Resume on GitHub Pages] (#hosting-your-resume-on-github-pages)
+    1. [Creating a GitHub Repository] (#creating-a-github-repository)
+    2. [Cloning Your Repository] (#cloning-your-repository)
+    3. [Uploading Your Resume] (#uploading-your-resume)
+* [Authors and Acknowledgements] (#authors-and-acknowledgements)
+* [More Resources] (#more-resources)
+* [Frequently Asked Questions (FAQs)] (#frequently-asked-questions-faqs)
 
 Hosting your resume online is the first step into entering a new job market with new job opportunities in technology. GitHub is a great website to host this new resume as it is a popular name in the tech community for acquiring talent, looking up developer's portfolios and storing projects, alongside your resume makes GitHub a one-stop-shop all your tech profile and hosting your resume on GitHub is the first item you are displaying in your "shop". This ReadMe will describe the practical steps of how to host and format a resume using GitHub Pages but before we begin the tutorial on how to host a resume, we first ask:
 
@@ -30,33 +30,22 @@ GitHub is a software and cloud-based service that gives users the ability to sto
 
  # <h4 align = "center"> <ins> Hosting Your Resume on GitHub Pages </ins> </h4>
 
-1. ##### **Creating a GitHub Repository**
-    - Head over to [GitHub](https://github.com/), log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)), look to the **+** sign at the top right and click **New Repository** ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/new_repository.gif)
+1. ##### **Finding a template for your resume from Jekyll**
+    - First, let's pick a resume template from Jekyll. Templates and themes are available from [here](https://jekyll-themes.com). You can narrow your selecting *Resumes* from the categories option on the left panel. We selected ####### then select **Repository** from the options XXXXXLINKFORGIF OF THINGYXXXX. This will take you to the GitHub repository for that template.
 
-2. ##### **Cloning your repository**
-    - If you are using GitHub Desktop, you can choose the **Set up in Desktop** option ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/setupindesktop.png ) on the repository homepage from GitHub. This should redirect you to the GitHub Desktop app, and when it does, save the project. If the GitHub Desktop app does not automatically redirect, manually launch it and then just clone the repository by selecting *Clone Repository* from the File option in the Menu Bar on the top of your screen. 
-    <br>![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/clone%20repository.gif) 
-    - If you are using terminal or Command Prompt, you can clone our repository by entering <br>`git clone https://github.com/username/username.github.io` <br> into your terminal.
+2. ##### **Forking the repository**
+    - At this point, we will be forking this repository to our account. Log in (or [create an account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)) and then click **Fork** from the top right XXXXX. After you fork the above repository to your account and give it a name. For this example, we will name our repository "Resume". You can add a description if you wish but that is optional. Finally, click **Create fork** at the bottom of the screen and you should be redirected to the forked repository named *"Resume"*.
 
-3. #### Configuring your index.html file
-    - **CONGRATULATIONS**! You have now officially created your own GitHub repository, the next step is confguring your index.html file. Since this is functionally our "Initial commit" you can create a basic index .html file. A template of a basic index.html is below.
-    ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/basic_index.png) 
-    Then after configuring this index.html, we then upload it to our repository.
-         - To do this, if you are using **GitHub Desktop**, save your index.html file to your new cloned repository's local directory, then label this your file as *Initial Commit* in the GitHub App and then "Push" this commit to your repository.
-         ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit2.gif) 
-        - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the index.html is stored (preferably a new one), and initialize that directory as a GitHub repository by inputting:
-        <br> `git init -b main`
-        After you do that then, you commit the directory to repository and label that commit as *Initial Commit* then "Push" these commits to your repository. You can do this by inputting the folowing into the command line: 
-         <br> `git add . && git commit -m "initial commit"`   
+3. ##### **Host your GitHub Pages**
+    - In your new repository, at the top of the screen but below the repository description XXXXXXXX select **Settings** and you will be redirected to the settings for the repository. In the settings page, at the left panel, select *Pages* from the *Code and automation*. When the page loads, under *Build and deployment - Source*, select *Deploy from a branch*. Then under *Branch* select the branch that currently hosts our forked repository and folder */(root)*. You can add a custom domain if you please but not necessary. You can view your new GitHub page from `https://<username>.github.io/Resume`.
 
+4. ##### **Format the template resume**
+    - This part is a bit tricky. Depending on your template chosen from Jekyll, the file that hosts the editable data to which you fill in your information varies. It is usually found in the _config.yml or data.yml file. In this case, it is the data.yml. You can edit all the template information (changing "John Doe" to your name etc.) When you're done, you can upload an image of yourself as well to the /assets/images directory and change the template to the name of your new image file.
 
-4. ##### **Uploading your Resume**
-    - We have now [created a repository](#creating-a-github-repository), [cloned a repository](#cloning-your-repository) and [configured our index.html](#configuring-your-indexhtml-file) file next it is time for you to upload your resume. First you need to format your resume in Markdown. Markdown is a lightweight markup language that helps display your resume on web pages. A link for tutorials on formatting documents in markdown is available in the [More Resources](#more-resources) part of the document. After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository. Following smilar steps to the above steps in uploading your index.html you approach in the same steps, label your commit whatever you please and then commit and push to your repository.
-    ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
+<p> At this point, your resume should look like</p> XXXXXXXXXXX
 
-
-Now you have officially hosted your resume on GitHub pages and are ready to take the tech world by storm. We wish you all the best.
-
+* If it does not look like this, check the [FAQs](#frequently-asked-questions-faqs) if there is anything there that helps
+* If it does **CONGRATULATIONS**! you have officially hosted your resume on GitHub pages and are ready to take the tech world by storm. We wish you all the best.
 ### Authors and Acknowledgements
 * Tirenioluwa Biodun-Kuti
 * Andrew Etter
@@ -71,15 +60,16 @@ Now you have officially hosted your resume on GitHub pages and are ready to take
 * [What is GitHub Pages?](https://youtu.be/2MsN8gpT6jY)
 
 ### Frequently Asked Questions (FAQs)
-1. Why id Markdown better than a word processor?
-    * Markdown is  quite straighforwards in regards to editing
+1. Why is Markdown better than a word processor?
+    * Markdown is quite straightforward regarding editing
     * Markdown is more suited to work on browsers and online formats
-    * Markdown's format has less distracting elements on screen  
+    * Markdown's format has fewer distracting elements on the screen  
 
 2. Why is my resume not showing up?
-    * GitHub server's might be down
+    * GitHub servers might be down
     * Have you configured your index.html file?
     * Have you set up GitHub pages for your repository?
-    * It takes time for (~3 mins) for GitHub Pages to configure your website
+    * It takes time (~3 mins) for GitHub Pages to configure your website
+
 
 
