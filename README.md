@@ -42,16 +42,17 @@ GitHub is a software and cloud-based service that gives users the ability to sto
     - **CONGRATULATIONS**! You have now officially created your own GitHub repository, the next step is confguring your index.html file. Since this is functionally our "Initial commit" you can create a basic index .html file. A template of a basic index.html is below.
     ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/basic_index.png) 
     Then after configuring this index.html, we then upload it to our repository.
-         - To do this, if you are using **GitHub Desktop**, save your Markdown Resume to your new cloned repository's local directory, then label this your resume as *Initial Commit* in the GitHub App and then "Push" this commit to your repository. ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
-        - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputting:
+         - To do this, if you are using **GitHub Desktop**, save your index.html file to your new cloned repository's local directory, then label this your file as *Initial Commit* in the GitHub App and then "Push" this commit to your repository.
+         ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit2.gif) 
+        - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the index.html is stored (preferably a new one), and initialize that directory as a GitHub repository by inputting:
         <br> `git init -b main`
         After you do that then, you commit the directory to repository and label that commit as *Initial Commit* then "Push" these commits to your repository. You can do this by inputting the folowing into the command line: 
          <br> `git add . && git commit -m "initial commit"`   
 
 
 4. ##### **Uploading your Resume**
-    - We have now [created a repository](#creating-a-github-repository), [cloned a repository](#cloning-your-repository) and [configured our index.html](#configuring-your-indexhtml-file) file next it is time for you to upload your resume. First you need to format your resume in Markdown. Markdown is a lightweight markup language that helps display your resume on web pages. A link for tutorials on formatting documents in markdown is available in the [More Resources](#more-resources) part of the document. 
-    <br> After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository. Following smilar steps to the above steps in uploading your index.html you approach in the same steps, label your commit whatever you please and then commit and push to your repository.
+    - We have now [created a repository](#creating-a-github-repository), [cloned a repository](#cloning-your-repository) and [configured our index.html](#configuring-your-indexhtml-file) file next it is time for you to upload your resume. First you need to format your resume in Markdown. Markdown is a lightweight markup language that helps display your resume on web pages. A link for tutorials on formatting documents in markdown is available in the [More Resources](#more-resources) part of the document. After you have formatted your resume into a .md (Markdown) format, next is to upload your resume to your GitHub repository. Following smilar steps to the above steps in uploading your index.html you approach in the same steps, label your commit whatever you please and then commit and push to your repository.
+    ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
 
 
 Now you have officially hosted your resume on GitHub pages and are ready to take the tech world by storm. We wish you all the best.
