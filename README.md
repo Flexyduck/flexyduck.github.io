@@ -40,7 +40,7 @@ GitHub is a software and cloud-based service that gives users the ability to sto
 
 3. #### Configuring your input.html file
     - **CONGRATULATIONS**! You have now officially created your own GitHub repository, the next step is confguring your index.html file. Since this is functionally our "Initial commit" you can create a basic index .html file. A template of a basic index.html is below.
-
+    <br> ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/basic_inex.png) 
     Then after configuring this index.html, we then upload it to our repository.
          - To do this, if you are using **GitHub Desktop**, save your Markdown Resume to your new cloned repository's local directory, then label this your resume as *Initial Commit* in the GitHub App and then "Push" this commit to your repository. ![]( https://github.com/Flexyduck/flexyduck.github.io/blob/main/Gifs/initialcommit.gif )
         - If you are using **command line** (Terminal or Command Prompt), navigate to your directory where the resume is stored (preferably a new one), and initialize that directory as a GitHub repository by inputting:
