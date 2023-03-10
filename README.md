@@ -48,7 +48,7 @@ GitHub is a software and cloud-based service that gives users the ability to sto
         2. A version control software 
 
 5.  ##### Using a Text Editor and Version Control Software
-    Fire up your favourite text editor. I personally prefer just using Microsoft Visual Studio. A version control software would also be needed to sync your changes locally to your online repository. GitHub has its own version control software called *GitHub Desktop*. You can use GitHub Desktop and your preferred text editor to format your .yml file to match your resume. To use GitHub Desktop, you will need to clone your repository.
+    Fire up your favourite text editor. I personally prefer just using [Microsoft Visual Studio](https://visualstudio.microsoft.com/downloads/). A version control software would also be needed to sync your changes locally to your online repository. GitHub has its own version control software called [GitHub Desktop](https://desktop.github.com). You can use GitHub Desktop and your preferred text editor to format your .yml file to match your resume. To use GitHub Desktop, you will need to clone your repository.
  
  6. ##### Cloning your repository
     - A **Set up in Desktop** option should be on the repository homepage on GitHub.
